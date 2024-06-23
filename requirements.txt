@@ -1,0 +1,5 @@
+langchain
+textwrap
+Huggingface
+FAISS
+streamlit
